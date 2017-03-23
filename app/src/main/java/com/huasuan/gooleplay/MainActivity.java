@@ -18,4 +18,4 @@ public class MainActivity extends AppCompatActivity {
         toolbar.setTitle("GoolePlay");
         setSupportActionBar(toolbar);
     }
-} 弄这里
+}
